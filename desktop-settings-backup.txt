@@ -1,0 +1,7 @@
+[/]
+color-shading-type='solid'
+picture-options='stretched'
+picture-uri='file:///home/sj/snap/firefox/common/Firefox_wallpaper.png'
+picture-uri-dark='file:///home/sj/%E5%9B%BE%E7%89%87/10.29%E5%AE%8B%E6%89%BF%E5%AE%87165%E5%BC%A0/3D6B2942.jpg'
+primary-color='#000000000000'
+secondary-color='#000000000000'
